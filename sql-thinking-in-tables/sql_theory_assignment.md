@@ -2,7 +2,7 @@
 
 Ans - Databases are important in real-world AI systems because they are used to store, organize and manage large datasets        efficiently.
 
-Examples of types of data stored in databases:= Names, Age, Transactions like orders and payments, etc.
+Examples of types of data stored in databases:- Names, Age, Transactions like orders and payments, etc.
 
 Structured storage is necessary because it ensured data reliability and easy querying using languages like SQL.
 
